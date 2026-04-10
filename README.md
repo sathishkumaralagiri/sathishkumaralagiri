@@ -28,7 +28,9 @@ My open-source work is focused on making Agile better, faster, and smarter throu
 |---|---|
 | **PSM II** — Professional Scrum Master II | Scrum.org |
 | **ICP-ACC** — Agile Coaching | ICAgile |
-| **Certified SAFe Practitioner** | Scaled Agile |
+| **SAFe Scrum Master(SSM)** | Scaled Agile |
+| **PMP** | PMI |
+
 | **Prompt Engineering for ChatGPT** | Vanderbilt / Coursera |
 | **Agentic AI** | Andrew Ng / DeepLearning.AI |
 | **Generative AI for Everyone** | Andrew Ng / DeepLearning.AI |
@@ -65,16 +67,18 @@ Comprehensive, structured reference content covering Scrum, Kanban, agile metric
 ---
 
 ### 🧠 [ai](https://github.com/sathishkumaralagiri/ai)
-> **AI for Agile Practitioners — a practical field guide**
+> **The AI Reference Library — a structured learning journey through AI**
 
-Guides, tool comparisons, use cases, and ethics for Scrum Masters and Agile Coaches integrating Generative AI into their practice. Covers ChatGPT, Claude, and Microsoft Copilot with honest, experience-based recommendations.
+A free, open-reference library covering AI from first principles to advanced systems. 36 modules across 9 categories — Foundations, Machine Learning, Data Science, Generative AI, Agentic AI, Working with AI, AI in Business, and Ethics & Society.
 
-| Guide | Description |
+🔗 **[Browse the live site →](https://sathishkumaralagiri.github.io/ai/)**
+
+| Level | Categories |
 |---|---|
-| Getting started | Your first week using AI as a Scrum Master |
-| Choosing your tool | ChatGPT vs Claude vs Copilot — honest comparison |
-| Prompt engineering 101 | How to write prompts that actually work |
-| AI in ceremonies | Where AI helps and where it doesn't |
+| Beginner | Foundations |
+| Intermediate | Data & Statistics · Machine Learning · Data Science |
+| Advanced | Generative AI · Agentic AI |
+| Applied | Working with AI · AI in Business · Ethics & Society |
 
 ---
 
