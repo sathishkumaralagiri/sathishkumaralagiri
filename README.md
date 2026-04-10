@@ -16,26 +16,9 @@
 
 ## 🧭 What I do
 
-I'm a practising **Technical Scrum Master and Agile Coach** with deep experience across Scrum and SAFe. Over the last few years I've been integrating **Generative AI** into real ceremony workflows — not as a gimmick, but as a genuine delivery accelerator for teams.
+I'm a **Technical Scrum Master and Agile Coach** with deep experience across Scrum, Kanban and SAFe. I've been integrating **Generative AI** into real ceremony workflows — not as a gimmick, but as a genuine delivery accelerator for teams.
 
 My open-source work is focused on making Agile better, faster, and smarter through AI-enabled tooling, prompt libraries, and reference resources that practitioners can actually use.
-
----
-
-## 🏅 Certifications
-
-| Certification | Body |
-|---|---|
-| **PSM II** — Professional Scrum Master II | Scrum.org |
-| **ICP-ACC** — Agile Coaching | ICAgile |
-| **SAFe Scrum Master(SSM)** | Scaled Agile |
-| **PMP** | PMI |
-
-| **Prompt Engineering for ChatGPT** | Vanderbilt / Coursera |
-| **Agentic AI** | Andrew Ng / DeepLearning.AI |
-| **Generative AI for Everyone** | Andrew Ng / DeepLearning.AI |
-| **Managing AI Projects** | Johns Hopkins / Coursera |
-| **Microsoft 365 Copilot** | Vanderbilt / Coursera |
 
 ---
 
@@ -79,6 +62,22 @@ A free, open-reference library covering AI from first principles to advanced sys
 | Intermediate | Data & Statistics · Machine Learning · Data Science |
 | Advanced | Generative AI · Agentic AI |
 | Applied | Working with AI · AI in Business · Ethics & Society |
+
+---
+## 🏅 Certifications
+
+| Certification | Body |
+|---|---|
+| **PSM II** — Professional Scrum Master II | Scrum.org |
+| **ICP-ACC** — Agile Coaching | ICAgile |
+| **SAFe Scrum Master(SSM)** | Scaled Agile |
+| **PMP** | PMI |
+
+| **Prompt Engineering for ChatGPT** | Vanderbilt / Coursera |
+| **Agentic AI** | Andrew Ng / DeepLearning.AI |
+| **Generative AI for Everyone** | Andrew Ng / DeepLearning.AI |
+| **Managing AI Projects** | Johns Hopkins / Coursera |
+| **Microsoft 365 Copilot** | Vanderbilt / Coursera |
 
 ---
 
