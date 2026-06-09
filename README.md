@@ -1,111 +1,99 @@
-<div align="center">
-
-# Hi, I'm Sathish Kumar Alagiri 👋
-
-### Technical Scrum Master · Agile Coach · AI Practitioner
-
-*Bridging agile delivery and generative AI — building open tools that help teams work smarter.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathishkumaralagiri)
-[![GitHub followers](https://img.shields.io/github/followers/sathishkumaralagiri?label=Follow&style=flat&logo=github)](https://github.com/sathishkumaralagiri)
-[![Profile views](https://komarev.com/ghpvc/?username=sathishkumaralagiri&style=flat&color=6366f1&label=Profile+views)](https://github.com/sathishkumaralagiri)
-
-</div>
-
+<h1 align="center">Sathish Kumar Alagiri</h1>
+<h3 align="center">Senior Scrum Master · Agile Coach · Agile Delivery Lead</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/sathishkumaralagiri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <img src="https://img.shields.io/badge/PSM%20II-Certified-blue?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/SAFe%20SSM-Certified-0a7dc5?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/ICP--ACC-Certified-5c2d91?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/PMP-Certified-orange?style=flat-square" />
+</p>
+<p align="center">14+ years in IT &nbsp;·&nbsp; Insurance & Healthcare &nbsp;·&nbsp; US-based teams &nbsp;·&nbsp; AI-Powered Agile</p>
 ---
-
-## 🧭 What I do
-
-I'm a **Technical Scrum Master and Agile Coach** with deep experience across Scrum, Kanban and SAFe. I've been integrating **Generative AI** into real ceremony workflows — not as a gimmick, but as a genuine delivery accelerator for teams.
-
-My open-source work is focused on making Agile better, faster, and smarter through AI-enabled tooling, prompt libraries, and reference resources that practitioners can actually use.
-
+About
+Senior Scrum Master and Agile Coach with deep experience scaling agile across distributed teams in regulated industries. I specialise in blending classical agile frameworks with AI-powered tooling to reduce delivery friction and increase team autonomy.
+Currently focused on:
+Building open-source AI tools for Scrum Masters and Agile Coaches
+Researching agentic AI patterns and their application to delivery workflows
+Coaching teams on self-organisation, psychological safety, and engineering excellence
 ---
-
-## 🚀 Featured projects
-
-### 🤖 [agile-prompt-library](https://github.com/sathishkumaralagiri/agile-prompt-library)
-> **AI-enabled prompt library for Scrum Masters and Agile Coaches**
-
-21 practitioner-tested prompts covering Sprint Planning, Sprint Review, Retrospectives, and PI Planning. Every prompt is structured with role, context, task, and format — ready to paste into ChatGPT, Claude, or Microsoft Copilot.
-
-🔗 **[Open the interactive prompt browser →](https://sathishkumaralagiri.github.io/agile-prompt-library/)**
-
+Agile & Delivery Stack
+Domain	Tools & Frameworks
+Frameworks	Scrum · SAFe · Kanban · LeSS
+Ceremonies	PI Planning · Sprint Planning · Retrospectives · ART Sync
+Metrics	Velocity · Sprint Commitment Rate · Lead Time · DORA
+Coaching	ICP-ACC · Team Health Checks · OKRs · Working Agreements
+AI Tools	Claude API · ChatGPT · Microsoft Copilot · Prompt Engineering
+Collaboration	Jira · Confluence · Miro · Azure DevOps
 ---
-
-### 📚 [agile](https://github.com/sathishkumaralagiri/agile)
-> **Open-source Agile reference library**
-
-Comprehensive, structured reference content covering Scrum, Kanban, agile metrics, estimation techniques, and ceremony facilitation guides.
-
-🔗 **[Browse the live site →](https://sathishkumaralagiri.github.io/agile)**
-
-| Module | Description |
-|---|---|
-| `agile-metrics` | Metrics, estimation formulas, and anti-patterns |
-| `agile-scrum` | Roles, events, artifacts, values |
-| `agile-kanban` | WIP limits, flow, classes of service |
-| `agile-ceremonies` | Facilitation guides for all ceremonies |
-
+Featured Projects
+agile-prompt-library
+![](https://img.shields.io/badge/Prompts-21-blue?style=flat-square) ![](https://img.shields.io/badge/Frameworks-Scrum%20%7C%20SAFe-green?style=flat-square) ![](https://img.shields.io/badge/AI-ChatGPT%20%7C%20Claude%20%7C%20Copilot-purple?style=flat-square)
+Practitioner-built prompt library for Scrum Masters and Agile Coaches. 21 ready-to-use prompts covering every major agile ceremony — tested across ChatGPT, Claude, and Microsoft Copilot.
+```
+prompts/
+├── sprint-planning/     # Sprint goals, capacity planning, backlog refinement
+├── sprint-review/       # Increment narratives, stakeholder updates
+├── retrospectives/      # Retro formats, synthesis, action tracking
+└── pi-planning/         # PI objectives, dependency maps, risk summaries
+```
+📁 View on GitHub
 ---
-
-### 🧠 [ai](https://github.com/sathishkumaralagiri/ai)
-> **The AI Reference Library — a structured learning journey through AI**
-
-A free, open-reference library covering AI from first principles to advanced systems. 36 modules across 9 categories — Foundations, Machine Learning, Data Science, Generative AI, Agentic AI, Working with AI, AI in Business, and Ethics & Society.
-
-🔗 **[Browse the live site →](https://sathishkumaralagiri.github.io/ai/)**
-
-| Level | Categories |
-|---|---|
-| Beginner | Foundations |
-| Intermediate | Data & Statistics · Machine Learning · Data Science |
-| Advanced | Generative AI · Agentic AI |
-| Applied | Working with AI · AI in Business · Ethics & Society |
-
+agentic-ai
+![](https://img.shields.io/badge/Chapters-6-blue?style=flat-square) ![](https://img.shields.io/badge/Modules-24-green?style=flat-square) ![](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat-square)
+Open-source Agentic AI Reference Library covering the full practitioner stack — agent foundations, design patterns, memory architectures, RAG, safety, evaluation, and production deployment.
+```
+agentic-ai/
+├── 01-foundations/      # What is an AI agent? LLM reasoning, ReAct pattern
+├── 02-agent-design/     # Single-agent loops, multi-agent systems, orchestration
+├── 03-memory-tools/     # Memory architectures, RAG, tool use, computer use
+├── 04-safety-eval/      # Guardrails, evaluation frameworks, observability
+├── 05-production/       # Infrastructure, cost optimisation, enterprise deployment
+└── 06-frontiers/        # Self-improving agents, long-horizon tasks, A2A protocols
+```
+📁 View on GitHub  ·  🌐 Live site
 ---
-## 🏅 Certifications
-
-| Certification | Body |
-|---|---|
-| **PSM II** — Professional Scrum Master II | Scrum.org |
-| **ICP-ACC** — Agile Coaching | ICAgile |
-| **SAFe Scrum Master(SSM)** | Scaled Agile |
-| **PMP** | PMI |
-
-| **Prompt Engineering for ChatGPT** | Vanderbilt / Coursera |
-| **Agentic AI** | Andrew Ng / DeepLearning.AI |
-| **Generative AI for Everyone** | Andrew Ng / DeepLearning.AI |
-| **Managing AI Projects** | Johns Hopkins / Coursera |
-| **Microsoft 365 Copilot** | Vanderbilt / Coursera |
-
+agile
+![](https://img.shields.io/badge/Modules-4-blue?style=flat-square) ![](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square) ![](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey?style=flat-square)
+Open-source agile reference library covering metrics, Scrum, Kanban, and ceremony facilitation — with estimation techniques, flow metrics, and anti-patterns drawn from real delivery experience.
+```
+agile/
+├── agile-metrics/       # Metrics, estimation techniques, formulas, anti-patterns
+├── agile-scrum/         # Roles, events, artifacts, values
+├── agile-kanban/        # WIP limits, flow, classes of service, cadences
+└── agile-ceremonies/    # Facilitation guides and templates
+```
+📁 View on GitHub  ·  🌐 Live site
 ---
-
-## 🛠️ Skills & tools
-
-**Agile frameworks:** Scrum · SAFe · Kanban · LeSS  
-**AI tools:** ChatGPT · Claude · Microsoft Copilot · Prompt Engineering  
-**Delivery tools:** Jira · Confluence · Azure DevOps · Miro · MS Teams  
-**Practices:** PI Planning · OKRs · Hypothesis-driven delivery · Team health checks
-
+ai
+![](https://img.shields.io/badge/Categories-9-blue?style=flat-square) ![](https://img.shields.io/badge/Modules-36-green?style=flat-square) ![](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+Structured AI learning journey from first principles to advanced systems — built for curious minds, not just engineers. Covers foundations through generative AI, agentic systems, business application, and AI ethics.
+```
+ai/
+├── foundations/         # What is AI? History, terminology, limits
+├── data-statistics/     # Data types, basic statistics, data to insight
+├── machine-learning/    # Supervised learning, algorithms, model evaluation
+├── data-science/        # Data pipeline, DS vs ML vs AI, tools
+├── generative-ai/       # How LLMs work, text/image generation, multimodal
+├── agentic-ai/          # Agents, planning, memory, tools, multi-agent systems
+├── working-with-ai/     # Prompt engineering, ChatGPT/Claude/Gemini, use cases
+├── ai-in-business/      # Strategy, industry use cases, ROI
+└── ethics-society/      # Bias, privacy, jobs, regulation
+```
+📁 View on GitHub  ·  🌐 Live site
 ---
-
-## 💬 Philosophy
-
-> *"The best Agile teams don't just adopt new tools — they build new capabilities."*
-
-I believe AI doesn't replace the Scrum Master — it amplifies them. The goal is to spend less time on ceremony admin and more time on the things that actually matter: coaching, removing impediments, and helping teams grow.
-
+AI & Continuous Learning
+Credential	Provider
+Agentic AI	Andrew Ng / DeepLearning.AI
+Prompt Engineering for ChatGPT	Vanderbilt / Coursera
+Generative AI for Everyone	Andrew Ng / DeepLearning.AI
+Managing AI Projects	Johns Hopkins / Coursera
+Microsoft 365 Copilot	Vanderbilt / Coursera
 ---
-
-## 📫 Let's connect
-
-If you're a Scrum Master, Agile Coach, or RTE experimenting with AI in your delivery workflow — I'd love to hear what you're building.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathishkumaralagiri)
-
+Key Delivery Metrics
+> Numbers from recent engagements at Guardian Life Insurance
+40%+ improvement in sprint commitment reliability
+SOC 2 compliant release delivery — on time, zero audit findings
+Scaled from 2 → 6 squads while maintaining team health scores
+Reduced sprint spillover through structured capacity planning and dependency management
 ---
-
-<div align="center">
-  <sub>Open to collaboration · All repos MIT / CC BY 4.0 licensed · PRs welcome</sub>
-</div>
+Open to Senior Scrum Master · Agile Delivery Lead · Agile Coach opportunities.
